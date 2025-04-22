@@ -1,0 +1,51 @@
+patient_name,age,gender,doctor_name,diagnosis,medicine,dosage,date,location
+Jonathan Chen,21,Other,Brittney Collins,Hypertension,Cetirizine,5mg,2025-01-16,Hyderabad
+Mr. Gregory Gentry,22,Male,Holly Crawford PhD,Allergy,Amoxicillin,100mg,2024-10-03,Delhi
+Joseph Gutierrez,67,Female,Kristina Short,Allergy,Paracetamol,5mg,2024-05-01,Ahmedabad
+Timothy Campbell,47,Female,Shane Torres,Migraine,Salbutamol,10mg,2024-05-19,Kolkata
+Sarah Caldwell,52,Female,Veronica Williams,Diabetes,Amoxicillin,250mg,2024-06-15,Chennai
+Wendy Davis,63,Female,Roger Knight,Hypertension,Ibuprofen,10mg,2024-11-30,Kolkata
+Patrick Hicks,40,Other,Andrew Rocha,Throat Infection,Paracetamol,5mg,2024-08-17,Mumbai
+Kelli Mason,53,Female,Mike Thomas,Asthma,Salbutamol,10mg,2024-12-24,Kolkata
+Kelly Baker,56,Male,Angela Martinez,Asthma,Salbutamol,500mg,2024-10-13,Pune
+Joseph Santos,30,Other,Linda Collins,Diabetes,Aspirin,10mg,2024-12-25,Mumbai
+Francis Sutton,22,Other,Mr. Scott Edwards,Hypertension,Ibuprofen,10mg,2024-05-26,Mumbai
+Emma Duffy,24,Other,Jason Stevens,Hypertension,Aspirin,5mg,2024-09-29,Ahmedabad
+Emma Collins,14,Male,Kevin Gaines,Allergy,Metformin,500mg,2024-09-17,Ahmedabad
+Mrs. Katherine Schneider MD,78,Female,Michael Jenkins,Asthma,Loratadine,250mg,2025-03-14,Delhi
+Mr. Robert Shah,30,Male,Emily Smith,Diabetes,Amoxicillin,10mg,2024-04-15,Bangalore
+Todd Pugh,12,Male,Gerald Lopez,Allergy,Paracetamol,250mg,2025-01-16,Delhi
+Frank Smith,20,Other,Frank Jackson,Fever,Metformin,100mg,2024-11-09,Mumbai
+James Francis,32,Male,Michelle Robinson,Allergy,Cetirizine,500mg,2024-04-28,Bangalore
+Denise Burns,78,Male,Angelica Ayala,Migraine,Aspirin,100mg,2024-04-11,Hyderabad
+Abigail Edwards,62,Female,Barry Ellis,Migraine,Loratadine,100mg,2024-07-24,Hyderabad
+Christina Mcbride,71,Male,Jennifer Collier,Allergy,Metformin,400mg,2024-06-19,Pune
+John Gallagher,10,Male,Melissa Thompson,Throat Infection,Cetirizine,400mg,2024-05-29,Pune
+Donald Jones,47,Other,Heather Beasley,Diabetes,Cetirizine,10mg,2024-08-23,Mumbai
+Marcus Rojas,19,Male,Patrick Matthews,Hypertension,Amoxicillin,10mg,2024-12-10,Ahmedabad
+Amber Reeves,36,Male,Gregory Arellano,Allergy,Amoxicillin,10mg,2024-12-20,Chennai
+Stephen Carter,41,Male,Caleb Yates,Migraine,Metformin,100mg,2024-12-17,Bangalore
+Laurie Hobbs,14,Female,Tracy Dean,Throat Infection,Metformin,5mg,2024-10-06,Pune
+Jessica Peters,55,Male,James Sanchez,Throat Infection,Ibuprofen,250mg,2024-09-22,Pune
+Patrick Frye,42,Female,Kelly Watson,Asthma,Metformin,100mg,2024-06-08,Mumbai
+Heather Mcdonald,21,Male,Teresa Kelly,Fever,Aspirin,100mg,2024-10-30,Ahmedabad
+Amber Aguilar,51,Female,Jacob Walker,Throat Infection,Loratadine,500mg,2024-09-04,Chennai
+Thomas Shaw,22,Other,Cindy Mclaughlin DVM,Diabetes,Ibuprofen,10mg,2025-03-21,Chennai
+Matthew Curry,56,Female,Christopher Cole,Hypertension,Salbutamol,500mg,2024-04-17,Mumbai
+Benjamin Kelley,42,Female,Sara Greer,Asthma,Amoxicillin,400mg,2024-12-16,Mumbai
+Ryan Costa,20,Female,Anne Brown,Diabetes,Loratadine,10mg,2024-06-23,Bangalore
+Elizabeth Casey,30,Other,Michelle Byrd,Cold,Salbutamol,400mg,2024-04-13,Delhi
+Janet Thomas,44,Female,Sara Lopez,Allergy,Salbutamol,500mg,2024-07-27,Ahmedabad
+Peter Shaw,69,Male,Heather Curry,Cold,Salbutamol,10mg,2025-02-25,Kolkata
+Erin Smith,40,Female,Daniel Allen,Hypertension,Metformin,100mg,2024-10-14,Bangalore
+Joseph Miles,77,Female,Charles Henry,Fever,Amoxicillin,400mg,2024-12-03,Kolkata
+Kathryn Sharp,40,Female,Melissa Jones,Throat Infection,Loratadine,10mg,2025-01-28,Delhi
+Fred Rice,17,Male,Michael Daugherty,Fever,Amoxicillin,100mg,2024-08-15,Chennai
+Stacey Smith,62,Female,Ann Mccoy,Diabetes,Amoxicillin,5mg,2024-11-22,Bangalore
+Nicole Kelly,13,Male,Pamela Frank,Cold,Metformin,400mg,2024-06-27,Delhi
+Steven Green,76,Female,Christina Kane,Allergy,Salbutamol,500mg,2024-06-20,Mumbai
+Brian Sharp,11,Male,Jimmy Chaney,Throat Infection,Aspirin,10mg,2024-06-29,Bangalore
+Patricia Cochran,23,Female,Amanda Smith,Cold,Ibuprofen,250mg,2024-05-27,Ahmedabad
+Terry Williams,40,Female,Omar Ibarra,Hypertension,Loratadine,5mg,2025-02-04,Pune
+Becky Bryant,78,Male,John Castaneda,Throat Infection,Aspirin,5mg,2025-03-23,Delhi
+Kyle Torres,37,Other,Kelsey Barber,Allergy,Metformin,500mg,2025-02-01,Kolkata
